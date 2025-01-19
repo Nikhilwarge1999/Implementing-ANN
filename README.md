@@ -67,7 +67,7 @@ The implementation uses the **Churn Modeling Dataset**, leveraging Python with T
 ---
 
 ## File Structure
-- `data/`: Contains the dataset (add your dataset here).
+- `data/`: Contains the dataset 
 - `models/`: Stores trained model files.
 - `train_models.py`: Script to train ANN and RNN models.
 - `app.py`: Streamlit application for predictions.
@@ -98,7 +98,7 @@ The implementation uses the **Churn Modeling Dataset**, leveraging Python with T
 ## Future Work
 - Improve model performance using hyperparameter tuning.
 - Integrate additional features for better predictions.
-- Deploy the application on a cloud platform (e.g., AWS, Azure, or Heroku).
+- Deploy the application on a cloud platform .
 
 ---
 
